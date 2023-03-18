@@ -21,9 +21,10 @@ function HomePage() {
                 </div>
             </div>
 
-            <div>
+            <div className='mt-40'>
                 <h1>TechX Hackathon</h1>
-                <h2>Innovate for good cause</h2>
+                <h2 className='mb-10'>Innovate for good cause</h2>
+                <a href=''><i className="fa-solid fa-arrow-down fa-xl pr-5"></i></a>
             </div>
 
         </div>
