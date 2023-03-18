@@ -3,9 +3,8 @@
   height: 100vh;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.home-page {
+  height: 100vh;
 }
 
 @media (prefers-reduced-motion: no-preference) {

@@ -21,9 +21,9 @@ function HomePage() {
                 </div>
             </div>
 
-            <div className='mt-40'>
-                <h1>TechX Hackathon</h1>
-                <h2 className='mb-10'>Innovate for good cause</h2>
+            <div className=' flex flex-col items-center justify-center h-screen'>
+                <h1 style={{fontSize: "50px"}} >TechX Hackathon</h1>
+                <h2 style={{fontSize: "25px"}} className='mb-10'>Innovate for good cause</h2>
                 <a href=''><i className="fa-solid fa-arrow-down fa-xl pr-5"></i></a>
             </div>
 

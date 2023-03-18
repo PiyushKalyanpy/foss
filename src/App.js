@@ -5,8 +5,12 @@ import About from './Components/About';
 function App() {
   return (
     <div className="App">
-      <HomePage />
+      <div className='home-page'>
+        <HomePage />
+      </div>
+
       <About />
+      
     </div>
   );
 }
