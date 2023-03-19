@@ -45,7 +45,7 @@ function Home() {
 
         <div className=" flex flex-col items-center justify-center h-screen">
           <h1 className="text-8xl font-bold">TechX Hackathon</h1>
-          <h2  className="mb-10">
+          <h2  className="text-4xl mb-10">
             Innovate for good cause
           </h2>
 
