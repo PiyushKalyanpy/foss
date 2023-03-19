@@ -1,0 +1,33 @@
+.about {
+    margin: auto;
+    width: 90%;
+    padding: 10px;
+}
+
+.about-description {
+    font-size: 20px;
+    width: 55%;
+    padding-top: 100px;
+}
+
+.images {
+    width: 30%;
+}
+
+img {
+    height: 300px;
+    width: 250px;
+}
+
+.under {
+    position: relative;
+    z-index: -1;
+
+}
+
+.over {
+    position: relative;
+    left: 125px;
+    bottom: 150px;
+    z-index: -1;
+}
