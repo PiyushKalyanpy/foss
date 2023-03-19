@@ -45,13 +45,9 @@ function Home() {
 
         <div className=" flex flex-col items-center justify-center h-screen">
           <h1 className="text-8xl font-bold">TechX Hackathon</h1>
-<<<<<<< HEAD
           <h2  className="text-4xl mb-10">
             Innovate for good cause
           </h2>
-=======
-          <h2 className="mb-10">Innovate for good cause</h2>
->>>>>>> ac7697f2a45d1e2cd99aafb8fe3c636bfcce7946
 
           <div className="flex mb-20">
             <button className="rounded-none mr-10  p-2 bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500">
