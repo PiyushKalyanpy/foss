@@ -1,10 +1,10 @@
 import React from 'react'
-import Navbar from '../Components/Navbar'
+import Home from './Home'
 
 function Hackathon() {
   return (
     <div>
-      <Navbar />
+      <Home />
     </div>
   )
 }

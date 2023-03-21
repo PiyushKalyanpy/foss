@@ -8,8 +8,6 @@ function Navbar() {
               <ul className="flex space-x-20 ml-20 ">
                 <li>Home</li>
                 <li>About</li>
-                <li>Swag</li>
-                <li>Sponsor</li>
                 <li>Team</li>
               </ul>
 
