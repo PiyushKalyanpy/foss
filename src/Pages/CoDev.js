@@ -10,7 +10,7 @@ function CoDev() {
         <Navbar />
         
         <div className='max-w-lg' >
-        <div className='absolute top-20 left-10 z-10 text-2xl'>Upcoming...</div>
+        <div className='absolute top-24 left-10 z-10 text-2xl'>Upcoming...</div>
             <Carousel />
         </div>
     </div>
