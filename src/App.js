@@ -2,6 +2,7 @@ import './App.css';
 import Home from './Pages/Home';
 import About from './Pages/About';
 import CoDev from './Pages/CoDev';
+import Contact from './Pages/Contact';
 
 function App() {
 
@@ -11,7 +12,14 @@ function App() {
         <CoDev />
       </div>
 
-      <About />
+      <div>
+        <About />
+      </div>
+      
+      <div>
+        <Contact />
+      </div>
+      
       
     </div>
   );
