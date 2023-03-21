@@ -15,10 +15,10 @@ function Navbar() {
 
               <div className="mr-10">
                 <a href="">
-                  <i className="fa-brands fa-instagram fa-xl pr-5"></i>
+                  <i className="fa-brands fa-instagram fa-2x pr-5"></i>
                 </a>
                 <a href="">
-                  <i className="fa-brands fa-linkedin fa-xl pr-5"></i>
+                  <i className="fa-brands fa-linkedin fa-2x pr-5"></i>
                 </a>
               </div>
             </div>
