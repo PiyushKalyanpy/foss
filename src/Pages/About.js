@@ -3,7 +3,7 @@ import React from 'react';
 function About() {
   return (
     <div>
-      <h1 className='mb-20  w-fit p-2 bg-gradient-to-r  border-l-4 border-violet-500 mx-auto from-violet-800/70 px-4 font-bold ' style={{fontSize: "35px"}} >ABOUT US</h1>
+      <h1 className='mb-20  w-fit p-2 bg-gradient-to-r  border-l-4 border-green-500 mx-auto from-green-800/70 px-4 font-bold ' style={{fontSize: "35px"}} >ABOUT US</h1>
       
       <div className='flex justify-between m-auto	w-5/6	p-2.5'>
           <div className='w-2/5'>

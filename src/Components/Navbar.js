@@ -2,9 +2,9 @@ import React from 'react'
 
 function Navbar() {
   return (
-    <div className="fixed   w-full bg-violet-900/10  backdrop-blur-lg items-center">
-          <div className="flex flex-col w-full ">
-            <div className="flex  justify-between w-full my-4">
+    <div className="fixed justify-between h-20 w-full bg-green-900/10  backdrop-blur-lg items-center z-20 ">
+          <div className="flex flex-col w-full h-full ">
+            <div className="flex  justify-between w-full my-auto  ">
               <ul className="flex space-x-20 ml-20 ">
                 <li>Home</li>
                 <li>About</li>
@@ -23,8 +23,8 @@ function Navbar() {
                 </a>
               </div>
             </div>
-            <div className="flex m-auto w-1/2 bottom-0 h-[0.5px] bg-gradient-to-r from-transparent via-purple-500 to-transparent" />
           </div>
+            <div className="flex  m-auto w-1/2 bottom-0 h-[0.5px] bg-gradient-to-r from-transparent via-green-500 to-transparent" />
         </div>
   )
 }
