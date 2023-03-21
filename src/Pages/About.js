@@ -1,18 +1,17 @@
 import React from 'react';
-import './About.css';
 
 function About() {
   return (
     <div>
       <h1 className='mb-20' style={{fontSize: "35px"}} >ABOUT US</h1>
       
-      <div className='flex justify-between about'>
-          <div className='images '>
-            <img className='under' src='https://media.istockphoto.com/id/1397345519/photo/friendly-alien-making-a-heart-hand-gesture.jpg?b=1&s=170667a&w=0&k=20&c=nM7daCh9Zu5QFGS-5GT3_KTjFtfE3Cq7-QLVmLAWmT4='></img>
-            <img className='over' src='https://media.istockphoto.com/id/1397345519/photo/friendly-alien-making-a-heart-hand-gesture.jpg?b=1&s=170667a&w=0&k=20&c=nM7daCh9Zu5QFGS-5GT3_KTjFtfE3Cq7-QLVmLAWmT4='></img>          
+      <div className='flex justify-between m-auto	w-5/6	p-2.5'>
+          <div className='w-2/5'>
+            <img className='relative -z-01 h-72 w-72' src='https://media.istockphoto.com/id/1397345519/photo/friendly-alien-making-a-heart-hand-gesture.jpg?b=1&s=170667a&w=0&k=20&c=nM7daCh9Zu5QFGS-5GT3_KTjFtfE3Cq7-QLVmLAWmT4='></img>
+            <img className='relative -z-01 left-32 bottom-40 h-72 w-72' src='https://media.istockphoto.com/id/1397345519/photo/friendly-alien-making-a-heart-hand-gesture.jpg?b=1&s=170667a&w=0&k=20&c=nM7daCh9Zu5QFGS-5GT3_KTjFtfE3Cq7-QLVmLAWmT4='></img>          
           </div>
 
-          <div className='about-description'>
+          <div className='w-3/5 pt-24 text-xl'>
             <p className='text-left mb-10'>
               We are a dynamic team of technology enthusiasts, committed to providing a platform for innovation and collaboration. 
               Our hackathon brings together individuals from diverse backgrounds, united by a passion for technology and a drive to make a 
